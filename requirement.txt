@@ -55,7 +55,7 @@ Tempita==0.5.2
 unicode==2.6
 Unidecode==1.0.22
 urlfetch==1.0.3
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 websocket-client==0.48.0
