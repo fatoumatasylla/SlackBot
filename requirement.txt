@@ -29,7 +29,7 @@ mccabe==0.6.1
 npm==0.1.1
 optional-django==0.1.0
 pbr==4.1.1
-Pillow==5.4.1
+Pillow==8.2.0
 pipenv==2018.7.1
 psycopg2==2.7.5
 psycopg2-binary==2.7.7
